@@ -51,6 +51,8 @@
 
 91. **Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering**. *Kim Youwang, Tae-Hyun Oh, Gerard Pons-Moll*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [GitHub](https://github.com/postech-ami/Paint-it)
 
+92. **Learning an Implicit Physics Model for Image-based Fluid Simulation.** *Emily Yue-Ting Jia, Jiageng Mao, Zhiyuan Gao, Yajie Zhao, and Yue Wang*, In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025. [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Jia_Learning_an_Implicit_Physics_Model_for_Image-based_Fluid_Simulation_ICCV_2025_paper.html)
+
 
 
 ### 2️⃣Video Modal Generation🎥
@@ -109,6 +111,47 @@
 93. **Towards Physically Stable Motion Generation: A New Paradigm of Human Pose Representation**. *Qiongjie Cui, Zhenyu Lou, Zhenbo Song, Xiangbo Shu*, IEEE Transactions on Circuits and Systems for Video Technology, 2024. [Paper](https://www.researchgate.net/publication/387101678_Towards_Physically_Stable_Motion_Generation_A_New_Paradigm_of_Human_Pose_Representation)
 
 94. **Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs**. *Aayam Shrestha, Pan Liu, German Ros, Kai Yuan, Alan Fern*, European Conference on Computer Vision (ECCV), 2024. [Homepage](https://idigitopia.github.io/projects/mhc/)
+
+95. **Learning Plug-and-play Memory for Guiding Video Diffusion Models.**. *Selena Song, Ziming Xu, Zijun Zhang, Kun Zhou, Jiaxian Guo, Lianhui Qin, and Biwei Huang*, arXiv, 2025. [Homepage](https://thrcle421.github.io/DiT-Mem-Web/)
+
+96. **VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation.**. *Felix O'Mahony, Roberto Cipolla, and Ayush Tewari*, arXiv, 2025. [Homepage](https://felixomahony.github.io/vdaworld/)
+
+97. **VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models.**. *Xiangdong Zhang, Jiaqi Liao, Shaofeng Zhang, Fanqing Meng, Xiangpeng Wan, Junchi Yan, and Yu Cheng*, arXiv, 2025. [Homepage](https://videorepa.github.io/)
+
+98. **VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior.**. *Xindi Yang, Baolu Li, Yiming Zhang, Zhenfei Yin, Lei Bai, Liqian Ma, Zhiyong Wang et al*, arXiv, 2025. [Homepage](https://madaoer.github.io/projects/physically_plausible_video_generation)
+
+99. **Synthetic Video Enhances Physical Fidelity in Video Synthesis.**. *Qi Zhao, Xingyu Ni, Ziyu Wang, Feng Cheng, Ziyan Yang, Lu Jiang, and Bohan Wang*, arXiv, 2025. [Homepage](https://kevinz8866.github.io/simulation/)
+
+100. **Planning with Sketch-Guided Verification for Physics-Aware Video Generation.**. *Huang, Yidong, Zun Wang, Han Lin, Dong-Ki Kim, Shayegan Omidshafiei, Jaehong Yoon, Yue Zhang, and Mohit Bansal*, arXiv, 2025. [Homepage](https://sketchverify.github.io/)
+
+101. **ProPhy: Progressive Physical Alignment for Dynamic World Simulation.**. *Zijun Wang, Panwen Hu, Jing Wang, Terry Jingchen Zhang, Yuhao Cheng, Long Chen, Yiqiang Yan, Zutao Jiang, Hanhui Li, and Xiaodan Liang*, arXiv, 2025. [Paper](https://arxiv.org/abs/2512.05564)
+
+102. **Towards Physical Understanding in Video Generation: A 3D Point Regularization Approach.**. *Yunuo Chen, Junli Cao, Vidit Goel, Sergei Korolev, Chenfanfu Jiang, Jian Ren, Sergey Tulyakov, and Anil Kag*, arXiv, 2025. [Homepage](https://snap-research.github.io/PointVidGen/)
+
+103. **Hierarchical Fine-Grained Preference Optimization for Physically Plausible Video Generation.**. *Harold Haodong Chen, Haojian Huang, Qifeng Chen, Harry Yang, and Ser-Nam Lim*, arXiv, 2025. [Homepage](https://haroldchen19.github.io/PhysHPO-Page/)
+
+104. **PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation.**. *Chen Wang, Chuhao Chen, Yiming Huang, Zhiyang Dou, Yuan Liu, Jiatao Gu, and Lingjie Liu*, arXiv, 2025. [Homepage](https://cwchenwang.github.io/physctrl)
+
+105. **PhysChoreo: Physics-Controllable Video Generation with Part-Aware Semantic Grounding.**. *Haoze Zhang, Tianyu Huang, Zichen Wan, Xiaowei Jin, Hongzhi Zhang, Hui Li, and Wangmeng Zuo*, arXiv, 2025. [Paper](https://arxiv.org/abs/2511.20562)
+
+106. **PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning.**. *Sihui Ji, Xi Chen, Xin Tao, Pengfei Wan, and Hengshuang Zhao*, arXiv, 2025. [Homepage](https://sihuiji.github.io/PhysMaster-Page/)
+
+107. **What about Gravity in Video Generation? Post-Training Newton's Laws with Verifiable Rewards.**. *Minh-Quan Le, Yuanzhi Zhu, Vicky Kalogeiton, and Dimitris Samaras*, arXiv, 2025. [Homepage](https://cvlab-stonybrook.github.io/NewtonRewards)
+
+108. **NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics.**. *Yu Yuan, Xijun Wang, Tharindu Wickremasinghe, Zeeshan Nadir, Bole Ma, and Stanley H. Chan*, arXiv, 2025. [Homepage](https://github.com/pandayuanyu/NewtonGen)
+
+109. **MoReGen: Multi-Agent Motion-Reasoning Engine for Code-based Text-to-Video Synthesis.**. *Xiangyu Bai, He Liang, Bishoy Galoaa, Utsav Nandi, Shayda Moezzi, Yuhang He, and Sarah Ostadabbas*, arXiv, 2025. [Paper](https://arxiv.org/abs/2512.04221)
+
+110. **LINA: Learning INterventions Adaptively for Physical Alignment and Generalization in Diffusion Models.**. *Shu Yu, and Chaochao Lu*, arXiv, 2025. [Homepage](https://opencausalab.github.io/LINA)
+
+111. **Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation.**. *Ke Zhang, Cihan Xiao, Yiqun Mei, Jiacong Xu, and Vishal M. Patel*, arXiv, 2025. [Homepage](https://bwgzk-keke.github.io/DiffPhy/)
+
+112. **Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning.**. *Wang Lin, Liyu Jia, Wentao Hu, Kaihang Pan, Zhongqi Yue, Wei Zhao, Jingyuan Chen, Fei Wu, and Hanwang Zhang*, arXiv, 2025. [Paper](https://arxiv.org/abs/2504.15932)
+
+113. **Bootstrapping Physics-Grounded Video Generation through VLM-Guided Iterative Self-Refinement.**. *Yang Liu, Xilin Zhao, Peisong Wen, Siran Dai, and Qingming Huang*, arXiv, 2025. [Paper](https://arxiv.org/abs/2511.20280)
+
+
+
 
 
 
@@ -187,6 +230,7 @@
 
 90. **PHYSCENE: Physically Interactable 3D Scene Synthesis for Embodied AI**. *Yandan Yang, Baoxiong Jia, Peiyuan Zhi, Siyuan Huang*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. [Paper](https://cvpr.thecvf.com/virtual/2024/poster/29554)
 
+91. **SOPHY: Generating Simulation-Ready Objects with Physical Materials.**. *Junyi Cao, and Evangelos Kalogerakis*, arXiv, 2025. [Homepage](https://xjay18.github.io/SOPHY_page/)
 
 
 ### 4️⃣4D Modal Generation⏳
@@ -219,9 +263,9 @@
 92. **PhysReaction: Physically Plausible Real-Time Humanoid Reaction Synthesis via Forward Dynamics Guided 4D Imitation**. *Yunze Liu, Changxi Chen, Chenjing Ding, Li Yi*, arXiv, 2024. [Paper](https://dl.acm.org/doi/10.1145/3664647.3680636)
 
 
-
-
 95. **MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators**. *Shenghai Yuan\*, Jinfa Huang\*, Yujun Shi, Yongqi Xu, Ruijie Zhu, Bin Lin, Xinhua Cheng, Li Yuan, Jiebo Luo*, arXiv, 2024. [Homepage](https://pku-yuangroup.github.io/MagicTime/) [Paper](https://arxiv.org/abs/2404.05014) [Code](https://github.com/PKU-YuanGroup/MagicTime)
+
+96. **Articulated Kinematics Distillation from Video Diffusion Models.**. *Xuan Li, Qianli Ma, Tsung-Yi Lin, Yongxin Chen, Chenfanfu Jiang, Ming-Yu Liu, and Donglai Xiang*, In Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), 2025. [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Articulated_Kinematics_Distillation_from_Video_Diffusion_Models_CVPR_2025_paper.html)
 
 
 ## Physics Engine/ Simulation Platforms
@@ -398,7 +442,13 @@
 
 39. **Scalable Differentiable Physics for Learning and Control**. *Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming C. Lin*, arXiv, 2020. [Paper](https://arxiv.org/abs/2007.02168)
 
+40. **PhysGame: Uncovering Physical Commonsense Violations in Gameplay Videos.**. *Meng Cao, Haoran Tang, Haoze Zhao, Hangyu Guo, Jiaheng Liu, Ge Zhang, Ruyang Liu, Qiang Sun, Ian Reid, and Xiaodan Liang*, arXiv, 2024. [Paper](https://arxiv.org/abs/2412.01800)
 
+41. **MASS: Motion-Aware Spatial-Temporal Grounding for Physics Reasoning and Comprehension in Vision-Language Models.**. *Xiyang Wu, Zongxia Li, Jihui Jin, Guangyao Shi, Gouthaman KV, Vishnu Raj, Nilotpal Sinha, Jingxi Chen, Fan Du, and Dinesh Manocha*, arXiv, 2025. [Paper](https://arxiv.org/abs/2511.18373)
+
+42. **CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models.**. *Aaron Foss, Chloe Evans, Sasha Mitts, Koustuv Sinha, Ammar Rizvi, and Justine T. Kao*, arXiv, 2025. [Paper](https://arxiv.org/abs/2506.09943)
+
+43. **Accelerating Physical Property Reasoning for Augmented Visual Cognition.**. *Hongbo Lan, Zhenlin An, Haoyu Li, Vaibhav Singh, and Longfei Shangguan*, arXiv, 2025. [Paper](https://arxiv.org/abs/2511.03126)
 
 
 
@@ -437,3 +487,35 @@
 16. **Evaluating Text-to-Visual Generation with Image-to-Text Generation**. *Zhiqiu Lin, Deepak Pathak, Baiqi Li, Jiayao Li, Xide Xia, Graham Neubig, Pengchuan Zhang, Deva Ramanan*, European Conference on Computer Vision (ECCV), 2024. [Homepage](https://linzhiqiu.github.io/papers/vqascore/)
 
 17. **GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation.**. *Baiqi Li, Zhiqiu Lin, Deepak Pathak, Jiayao Li, Yixin Fei, Kewen Wu, Tiffany Ling, Xide Xia, Pengchuan Zhang, Graham Neubig, Deva Ramanan*, arXiv, 2024. [Homepage](https://linzhiqiu.github.io/papers/genai_bench/)
+
+18. **4DWorldBench: A Comprehensive Evaluation Framework for 3D/4D World Generation Models.**. *Yiting Lu, Wei Luo, Peiyan Tu, Haoran Li, Hanxin Zhu, Zihao Yu, Xingrui Wang et al.*, arXiv, 2025. [Homepage](https://yeppp27.github.io/4DWorldBench.github.io/)
+
+19. **Impossible videos.**. *Zechen Bai, Hai Ci, and Mike Zheng Shou*, arXiv, 2025. [Paper](https://arxiv.org/abs/2503.14378)
+
+20. **InPhyRe Discovers: Large Multimodal Models Struggle in Inductive Physical Reasoning.**. *Gautam Sreekumar, and Vishnu Naresh Boddeti*, arXiv, 2025. [Paper](https://arxiv.org/abs/2509.12263)
+
+21. **IntPhys 2: Benchmarking Intuitive Physics Understanding In Complex Synthetic Environments.**. *Florian Bordes, Quentin Garrido, Justine T. Kao, Adina Williams, Michael Rabbat, and Emmanuel Dupoux*, arXiv, 2025. [Paper](https://arxiv.org/abs/2506.09849)
+
+22. **Intuitive Physics Understanding Emerges from Self-Supervised Pretraining on Natural Videos.**. *Quentin Garrido, Nicolas Ballas, Mahmoud Assran, Adrien Bardes, Laurent Najman, Michael Rabbat, Emmanuel Dupoux, and Yann LeCun*, arXiv, 2025. [Paper](https://arxiv.org/abs/2502.11831)
+
+23. **LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference.**. *Jianhao Yuan, Fabio Pizzati, Francesco Pinto, Lars Kunze, Ivan Laptev, Paul Newman, Philip Torr, and Daniele De Martini*, arXiv, 2025. [Paper](https://arxiv.org/abs/2510.11512)
+
+24. **Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments.**. *Chenyu Zhang, Daniil Cherniavskii, Antonios Tragoudaras, Antonios Vozikis, Thijmen Nijdam, Derck WE Prinzhorn, Mark Bodracska, Nicu Sebe, Andrii Zadaianchuk, and Efstratios Gavves*, arXiv, 2025. [Paper](https://arxiv.org/abs/2504.02918)
+
+25. **PAI-Bench: A Comprehensive Benchmark For Physical AI.**. *Fengzhe Zhou, Jiannan Huang, Jialuo Li, Deva Ramanan, and Humphrey Shi*, arXiv, 2025. [Paper](https://arxiv.org/abs/2512.01989)
+
+26. **PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models.**. *Zeqing Wang, Keze Wang, and Lei Zhang*, arXiv, 2025. [Paper](https://arxiv.org/abs/2512.01843)
+
+27. **PhyWorldBench: A Comprehensive Evaluation of Physical Realism in Text-to-Video Models.**. *Jing Gu, Xian Liu, Yu Zeng, Ashwin Nagarajan, Fangrui Zhu, Daniel Hong, Yue Fan et al.*, arXiv, 2025. [Paper](https://arxiv.org/abs/2507.13428)
+
+28. **Science-T2I: Addressing Scientific Illusions in Image Synthesis.**. *Jialuo Li, Wenhao Chai, Xingyu Fu, Haiyang Xu, and Saining Xie*, In Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), 2025. [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Science-T2I_Addressing_Scientific_Illusions_in_Image_Synthesis_CVPR_2025_paper.html)
+
+29. **Spotlight: Identifying and Localizing Video Generation Errors Using VLMs.**. *Aditya Chinchure, Sahithya Ravi, Pushkar Shukla, Vered Shwartz, and Leonid Sigal*, arXiv, 2025. [Paper](https://arxiv.org/abs/2511.18102)
+
+30. **T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation.** *Xuyang Guo, Jiayan Huo, Zhenmei Shi, Zhao Song, Jiahao Zhang, and Jiale Zhao*, arXiv, 2025. [Paper](https://arxiv.org/abs/2505.00337)
+
+31. **VideoVerse: How Far is Your T2V Generator from a World Model?.**. *Zeqing Wang, Xinyu Wei, Bairui Li, Zhen Guo, Jinrui Zhang, Hongyang Wei, Keze Wang, and Lei Zhang*, arXiv, 2025. [Paper](https://arxiv.org/abs/2510.08398)
+
+32. **WorldModelBench: Judging Video Generation Models as World Models.**. *Dacheng Li, Yunhao Fang, Yukang Chen, Shuo Yang, Shiyi Cao, Justin Wong, Michael Luo et al*, arXiv, 2025. [Homepage](https://worldmodelbench-team.github.io/)
+
+33. **WorldScore: A Unified Evaluation Benchmark for World Generation.**. *Haoyi Duan, Hong-Xing Yu, Sirui Chen, Li Fei-Fei, and Jiajun Wu*, arXiv, 2025. [Homepage](https://haoyi-duan.github.io/WorldScore/)
